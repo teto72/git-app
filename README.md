@@ -1,5 +1,5 @@
 # README
-## how to use Github Desktop
+
 ## how to use git revert
 
 This README would normally document whatever steps are necessary to get the
@@ -24,3 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+## how to use Github Desktop
